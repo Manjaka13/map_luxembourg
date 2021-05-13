@@ -1,4 +1,3 @@
 # map_luxembourg
 
-**yarn start**/
-http://localhost:5000
+**yarn start** then go to http://localhost:5000
